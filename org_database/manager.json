@@ -1,0 +1,11 @@
+{
+    "name": "Manager",
+    "password": "12345",
+    "leave_requests": [],
+    "assigned_tasks": [
+        {
+            "user_id": 1,
+            "task": "Het"
+        }
+    ]
+}

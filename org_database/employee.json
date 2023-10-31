@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "password": "12345",
+        "role": "Employee",
+        "punch_logs": []
+    },
+    {
+        "id": 2,
+        "password": "12345",
+        "role": "Employee",
+        "punch_logs": []
+    }
+]

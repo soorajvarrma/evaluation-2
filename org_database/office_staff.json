@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "password": "12345",
+        "role": "Office Staff",
+        "tasks": [],
+        "leave_requests": [
+            "Kids"
+        ]
+    },
+    {
+        "id": 2,
+        "password": "12345",
+        "role": "Office Staff",
+        "tasks": [],
+        "leave_requests": []
+    }
+]
